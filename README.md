@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Erin. 👋
 
 <!--
 **ErinwithBMQ/ErinwithBMQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-南京大学软件工程大二就读
+
+- 🔭 I’m a sophomore majoring in *Software Engineering* at *Nanjing University*.
+- 😄 **Areas of interest:** Full stack development
+- 🌱 **Tools I’m skilled in:** VS Code, JetBrains IDE
+- 👯 **Languages I work with:** C, Java, JavaScript
+- 🤔 **Tech stack expertise:** React, MidwayJS

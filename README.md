@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🔭 I’m a sophomore majoring in *Software Engineering* at *Nanjing University*.
 - 😄 **Areas of interest:** Full stack development
 - 🌱 **Tools I’m skilled in:** VS Code, JetBrains IDEs
-- 👯 **Languages I work with:** C, Java, JavaScript
-- 🤔 **Tech stack expertise:** React, MidwayJS
+- 👯 **Languages I work with:** C, Java, JavaScript, Python
+- 🤔 **Tech stack expertise:** React, MidwayJS, TailwindCSS, PostgreSQL
